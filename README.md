@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hpauli
 - 👀 I’m interested in ansible-playbooks to automate
-- 🌱 I’m currently learning ansible
+- 🌱 I’m still and will always learning ansible
 - 💞️ I’m looking to collaborate on automating NetApp Storage mostly OnTap controllers
 - 📫 How to reach me horst.pauli at netapp.com
 - 👀 Also I am a GearHead. As I am restoring a 1966 Chevrolet Chevelle SS 396. Let's talk about this if you need a break while you write any code :-)
